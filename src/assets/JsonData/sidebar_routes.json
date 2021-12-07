@@ -1,0 +1,97 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "#",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Services Jobs",
+        "route": "#",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Invoices",
+        "route": "/",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "Customers",
+        "route": "/",
+        "icon": "bx bx-cart"
+    },
+    {
+        "display_name": "Products",
+        "route": "#",
+        "icon": "bx bx-star"
+    },
+    {
+        "display_name": "Offered Services",
+        "route": "#",
+        "icon": "bx bxs-offer"
+    },
+    {
+        "display_name": "Parts",
+        "route": "#",
+        "icon": "bx bxs-discount"
+    },
+    {
+        "display_name": "Enqueries",
+        "route": "#",
+        "icon": "bx bx-error-alt"
+    },
+    {
+        "display_name": "Users",
+        "route": "#",
+        "icon": "bx bx-user-circle"
+    },
+    {
+        "display_name": "Permissions",
+        "route": "#",
+        "icon": "bx bx-check-square"
+    },
+    {
+        "display_name": "Roles",
+        "route": "#",
+        "icon": "bx bx-user"
+    },
+    {
+        "display_name": "Email Templates",
+        "route": "#",
+        "icon": "bx bx-envelope"
+    },
+    {
+        "display_name": "PDF Templates",
+        "route": "#",
+        "icon": "bx bx-file"
+    },
+    {
+        "display_name": "SMS Templates",
+        "route": "#",
+        "icon": "bx bx-message-rounded-dots"
+    },
+    {
+        "display_name": "Theming",
+        "route": "#",
+        "icon": "bx bx-image"
+    },
+    {
+        "display_name": "Payment Gateways",
+        "route": "#",
+        "icon": "bx bx-wallet-alt"
+    },
+    {
+        "display_name": "Backup",
+        "route": "#",
+        "icon": "bx bx-sort"
+    },
+    {
+        "display_name": "Configuration",
+        "route": "#",
+        "icon": "bx bx-pie-chart-alt"
+    },
+    {
+        "display_name": "Settings",
+        "route": "#",
+        "icon": "bx bx-cog"
+    }
+]
